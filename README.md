@@ -1,10 +1,15 @@
 
+<p align=center><img src="https://github.com/theabdulsalman/theabdulsalman/assets/143430536/56d7ee7f-b9e3-48e9-9af6-a056c43f26ab"/></p>
 
-<p align=center><img src="https://github.com/theabdulsalman/theabdulsalman/assets/143430536/3a8b0aed-ebf6-42f7-bf79-58fa71d8af78"/></p>
+
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Platypi&pause=1000&color=1E6AE1&center=true&random=false&width=435&lines=Business+Analyst%2C;Frontend+developer%2C;UI%2FUX+Designer%2C;Freelance+Photographer." alt="Typing SVG" /></a>
 </h1>
+
+<img src="https://github.com/Nquenan/Nquenan/assets/112055340/32a6edd8-9667-41d7-a458-f2b75693046a"  width="350px" height="210px" align="right"/> 
+<p><img src="https://media.tenor.com/UdMNNyr9BgIAAAAi/discord-discordgifemoji.gif" />&nbsp; <b>I'm Abdul Salman</b> </p>
+
 
 <br>
 <h3 align="left">Support:</h3>
@@ -23,6 +28,8 @@
 </picture>
 </br>
 </div>
+
+
 
 
 
