@@ -16,8 +16,7 @@
 <li>🕹️Love gaming and snapping cool pics in my free time.</li>
 
 <h3 align="left">Find Me</h3>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" <img src="https://www.linkedin.com/in/theabdulsalman/"/> 
-<a href="https://www.linkedin.com/in/theabdulsalman/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a></a>
+<a href="https://www.linkedin.com/in/theabdulsalman/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="theabdulsalman"/></a></a>
   
 <br>
 
