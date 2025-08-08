@@ -20,7 +20,7 @@
 <a href="https://instagram.com/theabdulsalman/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="theabdulsalman"/></a>
 <a href="https://twitter.com/theabdulsalman/"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="theabdulsalman"/></a>
 <a href="https://youtube.com/theabdulsalman/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="theabdulsalman"/></a>
-<a href="mailto:abdulsalman081999@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"/></a>
+<a href="mailto:abdulsalman.business@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"/></a>
 </div>
 
 
