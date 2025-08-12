@@ -1,6 +1,6 @@
 
 <p align=center><img src="https://github.com/theabdulsalman/theabdulsalman/assets/143430536/56d7ee7f-b9e3-48e9-9af6-a056c43f26ab"/></p>
-{/* What are you doing here mate */}
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Platypi&size=25&pause=1000&color=3888FF&center=true&random=false&width=450&lines=Business+Analyst%2C;Self-Taught+developer%2C;UI%2FUX+Designer+%26;Freelance+Photographer." alt="Typing SVG" /></a>
 </h1>
