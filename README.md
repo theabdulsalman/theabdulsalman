@@ -53,7 +53,6 @@
 <p><a href="https://www.buymeacoffee.com/theabdulsalman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theabdulsalman" /></a></p>
 
 
-
 <br> <br>
 <div align="center">
 <h3>🐍 My Contributions 🐍</h3>
