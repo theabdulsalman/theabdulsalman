@@ -1,4 +1,3 @@
-
 <p align=center><img src="https://github.com/theabdulsalman/theabdulsalman/assets/143430536/56d7ee7f-b9e3-48e9-9af6-a056c43f26ab"/></p>
 
 <h1 align="center">
